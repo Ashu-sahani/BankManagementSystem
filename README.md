@@ -1,7 +1,8 @@
 # BankManagementSystem
 🏦 NovaBanK — Bank Management System
 A secure, console-based Java banking application with PIN authentication, fund transfers, and persistent file storage.
-Built by: Ashutosh SahaniLanguage: Java (JDK 11+)Type: Console Application
+Built by: Ashutosh Sahani
+Language: Java (JDK 11+)Type: Console Application
 Features
 	•	🔐 Secure PIN Authentication — salted SHA-256 hashing (no plaintext storage)
 	•	👤 Account Management — create Savings or Current accounts
